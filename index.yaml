@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  git-repo-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-29T00:55:16.87931+05:30"
+    description: Git Repo Tests
+    digest: fb142fd7431f14fe957e9499e58fde721f991dafc6019c0504cff5684292aeb7
+    name: git-repo-test
+    type: application
+    urls:
+    - git-repo-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-29T00:55:16.876343+05:30"
